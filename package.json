@@ -1,6 +1,6 @@
 {
   "name": "jenkins-vue",
-  "version": "0.0.0-dev",
+  "version": "0.0.0-stg",
   "private": true,
   "type": "module",
   "scripts": {
